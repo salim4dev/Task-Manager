@@ -46,10 +46,11 @@ npm run dev
 ---
 ## Fonctionnalités
 
--Ajouter une tâche avec titre et description
--Voir la liste des tâches
--Marquer une tâche comme faite ou remise en attente
--Supprimer une tâche
+- Ajouter une tâche avec titre et description
+- Voir la liste des tâches
+- Marquer une tâche comme faite ou remise en attente
+- Supprimer une tâche
+
 
 
 
