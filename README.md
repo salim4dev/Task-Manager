@@ -6,7 +6,7 @@
 
 ## Application fullstack en TypeScript
 
-Ce projet est une application web simple de gestion de tâches.  
+Ce projet est une application web simple de gestion de tâches, destinée à une équipe interne. 
 Elle est composée de deux parties :  
 
 - **Frontend** : une interface React qui permet d’ajouter, modifier, supprimer et marquer des tâches comme faites.  
@@ -51,6 +51,7 @@ npm run dev
 - Voir la liste des tâches
 - Marquer une tâche comme faite ou remise en attente
 - Supprimer une tâche
+
 
 
 
