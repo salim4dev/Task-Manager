@@ -1,12 +1,10 @@
-
-
 body {
-  background: linear-gradient(135deg, #090122, #02363d);
-  color: #ecf0f1;
+  background: radial-gradient(circle at top left, #0d1b2a, #000814 80%), 
+              linear-gradient(135deg, rgba(255,255,255,0.05), rgba(0,0,0,0.3));
+  color: #e0e0e0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   min-height: 100vh;
   margin: 0;
   padding: 0;
+  background-attachment: fixed;
 }
-
-
