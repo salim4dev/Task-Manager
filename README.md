@@ -2,6 +2,7 @@
 
 
 # Gestionnaire de Tâches 
+![Capture d'écran du projet](interface.PNG)
 
 ## Application fullstack en TypeScript
 
@@ -50,6 +51,7 @@ npm run dev
 - Voir la liste des tâches
 - Marquer une tâche comme faite ou remise en attente
 - Supprimer une tâche
+
 
 
 
