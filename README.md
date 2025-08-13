@@ -15,6 +15,7 @@ Elle est composée de deux parties :
 ---
  ## Prérequis :
 Node.js 18 ou plus
+Télécharger : https://nodejs.org/fr/download
 
 ## Installation 
 
@@ -55,6 +56,7 @@ npm run dev
 - Voir la liste des tâches
 - Marquer une tâche comme faite ou remise en attente
 - Supprimer une tâche
+
 
 
 
