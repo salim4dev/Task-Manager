@@ -67,7 +67,7 @@ X  Supprimer une tâche
 
 ---
 
-## 🛠 Stack technique utilisée
+##  Stack technique utilisée
 
 ### **Frontend**
 - ⚛️ [React](https://react.dev/) avec **TypeScript**
@@ -75,14 +75,15 @@ X  Supprimer une tâche
 - 📦 [Vite](https://vitejs.dev/) comme outil de build
 
 ### **Backend**
-- 🟩 [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)
-- 🛢 **Base de données en mémoire** (simulation JSON pour le stockage)
+-  [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)
+-  **Base de données en mémoire** (simulation JSON pour le stockage)
 - 🔌 API RESTful avec routes CRUD
 
 ### **Outils & Développement**
 - 📡 [Axios](https://axios-http.com/) pour les requêtes HTTP
-- 🔄 [Nodemon](https://nodemon.io/) pour le rechargement automatique du backend
-- 🧩 TypeScript pour typage strict et meilleure maintenabilité
+-   [Nodemon](https://nodemon.io/) pour le rechargement automatique du backend
+-   TypeScript pour typage strict et meilleure maintenabilité
+
 
 
 
