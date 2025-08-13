@@ -14,48 +14,54 @@ Elle est composée de deux parties :
 
 ---
  ## Prérequis :
-Node.js 18 ou plus
-Télécharger : https://nodejs.org/fr/download
+Node.js 18 ou plus.
+Téléchargement : https://nodejs.org/fr/download
+- Vérifier l’installation :
+```bash
+node -v
+npm -v
+```
 
-## Installation 
+## 🚀 Installation & Lancement
 
-### 1. Cloner le projet (optionnel) / ou télécharger le .zip
-
+### 1. Télécharger le projet
+#### Option 1 :
+Cloner avec Git:
 ```bash
 git clone https://github.com/salim4dev/Task-Manager.git
 ```
-### 2. Ouvrez un terminal et placez vous dans le dossier Task-Manager 
+#### Option 2 :
+Télécharger le .zip puis extraire le dossier.
 
-```bash
-cd Task-Manager
-```
 
-### 3. Installer et lancer le backend
+### 2. Lancer le backend
 ```bash
 cd backend
 npm install
 npm run dev
 ```
+✅ Le serveur écoute par défaut sur http://localhost:4000
 
-//Le serveur écoute par défaut sur http://localhost:4000.
-
-### 4. Installer et lancer le frontend
+### 3. Lancer le frontend
 Ouvrir un autre terminal:
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-
-### 5. visitez :  http://localhost:5173/  dans votre navigateur !
+✅ L’interface est accessible sur http://localhost:5173/
 
 ---
 ## Fonctionnalités
 
-- Ajouter une tâche avec titre et description
-- Voir la liste des tâches
-- Marquer une tâche comme faite ou remise en attente
-- Supprimer une tâche
+➕ Ajouter une tâche avec titre et description
+
+📜 Voir la liste des tâches
+
+✅ Marquer une tâche comme faite ou 🕒 remise en attente
+
+X Supprimer une tâche
+
 
 
 
