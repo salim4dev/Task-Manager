@@ -36,7 +36,7 @@ npm install
 npm run dev
 ```
 
-//Le backend écoute par défaut sur http://localhost:4000.
+//Le serveur écoute par défaut sur http://localhost:4000.
 
 ### 4. Installer et lancer le frontend
 ```bash
@@ -54,6 +54,7 @@ npm run dev
 - Voir la liste des tâches
 - Marquer une tâche comme faite ou remise en attente
 - Supprimer une tâche
+
 
 
 
