@@ -65,6 +65,25 @@ X  Supprimer une tâche
 ## Aperçu
 ![Capture d'écran du projet](interface.PNG)
 
+---
+
+## 🛠 Stack technique utilisée
+
+### **Frontend**
+- ⚛️ [React](https://react.dev/) avec **TypeScript**
+- 🎨 [Bootstrap 5](https://getbootstrap.com/) pour le style
+- 📦 [Vite](https://vitejs.dev/) comme outil de build
+
+### **Backend**
+- 🟩 [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/)
+- 🛢 **Base de données en mémoire** (simulation JSON pour le stockage)
+- 🔌 API RESTful avec routes CRUD
+
+### **Outils & Développement**
+- 📡 [Axios](https://axios-http.com/) pour les requêtes HTTP
+- 🔄 [Nodemon](https://nodemon.io/) pour le rechargement automatique du backend
+- 🧩 TypeScript pour typage strict et meilleure maintenabilité
+
 
 
 
