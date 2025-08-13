@@ -49,7 +49,7 @@ cd frontend
 npm install
 npm run dev
 ```
-✅ L’interface est accessible sur http://localhost:5173/
+✅ L’application est accessible sur http://localhost:5173/
 
 ---
 ## Fonctionnalités
@@ -60,7 +60,10 @@ npm run dev
 
 ✅ Marquer une tâche comme faite ou 🕒 remise en attente
 
-X Supprimer une tâche
+X  Supprimer une tâche
+
+## Aperçu
+![Capture d'écran du projet](interface.PNG)
 
 
 
